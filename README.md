@@ -42,11 +42,20 @@ Bank customer churn analysis using Excel and Power BI to identify churn patterns
 ---
 
 ### 03. Airline Loyalty Program
-Airline Loyalty Program Analysis using SQLite and Excel for analyzing member acquisition, engagement, retention, flight activity, and loyalty program performance.
+Airline Loyalty Program analysis using SQLite and Excel for analyzing member acquisition, engagement, retention, flight activity, and loyalty program performance.
 
 -> SQL · Excel
 
 🔗 View Project: https://github.com/pysb03/Airline_Loyalty_Program
+
+---
+
+### 04. IT Equipment Sales
+IT equipment sales analysis using Excel and Power BI to explore sales performance, profitability, customer insights, and employee performance.
+
+-> Excel · Power BI
+
+🔗 View Project: https://github.com/pysb03/IT_Equipment_Sales
 
 ---
 
