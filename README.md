@@ -23,12 +23,12 @@ Through these projects, I aim to build a strong foundation in data analytics and
 
 ## 📊 Projects
 
-### 01. Maven Coffee Shop 
-Coffee shop sales analysis to identify sales trends, product performance, and store-level insights using Excel, SQLite, and Power BI.
+### 01. IT Equipment Sales
+IT equipment sales analysis using Excel and Power BI to explore sales performance, profitability, customer insights, and employee performance.
 
--> Excel · SQL · Power BI
+-> Excel · Power BI
 
-🔗 View Project: https://github.com/pysb03/Maven_Coffee_Shop
+🔗 View Project: https://github.com/pysb03/IT_Equipment_Sales
 
 ---
 
@@ -50,12 +50,12 @@ Airline Loyalty Program analysis using SQLite and Excel for analyzing member acq
 
 ---
 
-### 04. IT Equipment Sales
-IT equipment sales analysis using Excel and Power BI to explore sales performance, profitability, customer insights, and employee performance.
+### 04. Maven Coffee Shop 
+Coffee shop sales analysis to identify sales trends, product performance, and store-level insights using Excel, SQLite, and Power BI.
 
--> Excel · Power BI
+-> Excel · SQL · Power BI
 
-🔗 View Project: https://github.com/pysb03/IT_Equipment_Sales
+🔗 View Project: https://github.com/pysb03/Maven_Coffee_Shop
 
 ---
 
